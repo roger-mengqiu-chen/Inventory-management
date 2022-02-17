@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+    
+  },
+  "name": "inventory-management",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roger-mengqiu-chen/Inventory-management.git"
+  },
+  "author": "Roger Chen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/roger-mengqiu-chen/Inventory-management/issues"
+  },
+  "homepage": "https://github.com/roger-mengqiu-chen/Inventory-management#readme"
+}
